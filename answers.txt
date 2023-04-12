@@ -1,0 +1,21 @@
+sort1 uses: bubble sort
+
+How do you know?:
+
+random 50000 Time:0m8.063s
+reversed 50000 Time:0m6.913s
+sorted 50000 Time:0m1.503s
+sort2 uses: merge sort
+
+How do you know?:
+
+random 50000 Time:0m1.068s
+reversed 50000 Time:0m1.166ss
+sorted 50000 Time:0m0.059s
+sort3 uses: selection sort
+
+How do you know?:
+
+random 50000 Time:0m4.105s
+reversed 50000 Time:0m4.596s
+sorted 50000 Time:0m12.570s
